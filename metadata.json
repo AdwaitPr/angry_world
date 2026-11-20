@@ -1,0 +1,6 @@
+{
+  "name": "Angry World",
+  "description": "A deterministic 2D rigid-body projectile-demolition physics game built via clean-room reverse engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
